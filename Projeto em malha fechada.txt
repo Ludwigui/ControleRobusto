@@ -1,0 +1,18 @@
+Projeto em malha fechada:
+
+t5% = 0.6;
+pico = 0.05;
+
+sd = -5 +/-5.24i
+
+Ok... 
+
+Fazendo o projeto colocando os polos de mf com parte
+real menor que -3 e dentro de uma circunferência de raio
+10:
+
+s_mf = -6.23 +/-2i
+s_mf_2 = -3.57 +/-8.5i
+
+Beleza... parece estar dentro
+
